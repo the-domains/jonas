@@ -1,0 +1,28 @@
+name: jonas
+favicon: null
+layout_spectrum: 0.04175858967937529
+typography_spectrum: 0.7324106728192419
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.30277621326968074
+  lightness: 0.052519619930535555
+  saturation: 0.7573509786743671
+  rhythmicContrast: 0.8452221264597028
+purpose: []
